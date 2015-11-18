@@ -1,0 +1,15 @@
+﻿
+(function() {
+    angular.module('GlobalModule', ['ui.router', '']);
+
+    angular.module('GlobalModule').controller('landingPageController', landingPageController);
+
+    var configFunction = function ($stateProvider, $httpProvider, $locationProvider) {
+
+        $locationProvider.hashPrefix('!').html5Mode(true);
+
+    }
+    configFunction.$inject = ['$stateProvider', '$httpProvider', '$locationProvider'];
+    angular.module('GlobalModule').config(configFunction);
+
+})();

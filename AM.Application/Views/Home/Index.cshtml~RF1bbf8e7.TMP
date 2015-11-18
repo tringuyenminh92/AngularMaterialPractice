@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html ng-app="GlobalModule" ng-controller="LandingPageController">
+<head>
+    <title ng-bind="landingModel.title"></title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/angular-material/1.0.0-rc4/angular-material.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/angular-material/1.0.0-rc4/angular-material.layouts.min.css">
+
+
+</head>
+<body>
+
+
+    @Scripts.Render("~/bundles/jquery")
+    <script src="~/Scripts/angular.min.js"></script>
+    <script src="~/Scripts/angular-ui-router.min.js"></script>
+    <script src="~/Scripts/angular-animate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-material/1.0.0-rc4/angular-material.min.js"></script>
+    <script src="~/Build/Scripts/MyApp.js"></script>
+    <script src="~/Build/Scripts/Controller/LandingPageController.js"></script>
+</body>
+</html>

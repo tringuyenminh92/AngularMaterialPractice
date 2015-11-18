@@ -1,0 +1,13 @@
+﻿<!DOCTYPE html>
+<html ng-app="GlobalModule" ng-controller="landingPageController">
+<head>
+    <title ng-bind="landingModel.title"></title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/angular-material/1.0.0-rc4/angular-material.css">
+
+
+</head>
+<body>
+   
+</body>
+</html>

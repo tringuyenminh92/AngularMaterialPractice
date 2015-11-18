@@ -1,0 +1,8 @@
+﻿
+
+function LandingPageController($scope) {
+    $scope.landingPage = {
+        title: 'Angular Material Layout'
+    };
+}
+LandingPageController.$inject = ['$scope'];

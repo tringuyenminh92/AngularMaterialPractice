@@ -1,0 +1,204 @@
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\AM.Application.dll.config
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\AM.Application.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\AM.Application.pdb
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\Antlr3.Runtime.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\EntityFramework.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\Microsoft.Data.Edm.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\Microsoft.Data.OData.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\Newtonsoft.Json.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\System.Net.Http.Formatting.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\System.Spatial.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\System.Web.Helpers.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\System.Web.Http.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\System.Web.Http.OData.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\System.Web.Http.WebHost.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\System.Web.Mvc.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\System.Web.Optimization.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\System.Web.Razor.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\System.Web.WebPages.Deployment.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\System.Web.WebPages.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\System.Web.WebPages.Razor.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\WebGrease.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\EntityFramework.xml
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\Newtonsoft.Json.xml
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\System.Net.Http.Formatting.xml
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\System.Web.Helpers.xml
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\System.Web.Http.xml
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\System.Web.Http.WebHost.xml
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\System.Web.Mvc.xml
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\System.Web.Razor.xml
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\System.Web.WebPages.xml
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\System.Web.WebPages.Deployment.xml
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\System.Web.WebPages.Razor.xml
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\System.Web.Http.OData.xml
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\Microsoft.Data.Edm.xml
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\Microsoft.Data.OData.xml
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\System.Spatial.xml
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\de\Microsoft.Data.Edm.resources.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\es\Microsoft.Data.Edm.resources.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\fr\Microsoft.Data.Edm.resources.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\it\Microsoft.Data.Edm.resources.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\ja\Microsoft.Data.Edm.resources.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\ko\Microsoft.Data.Edm.resources.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\ru\Microsoft.Data.Edm.resources.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\de\Microsoft.Data.OData.resources.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\es\Microsoft.Data.OData.resources.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\fr\Microsoft.Data.OData.resources.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\it\Microsoft.Data.OData.resources.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\ja\Microsoft.Data.OData.resources.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\ko\Microsoft.Data.OData.resources.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\ru\Microsoft.Data.OData.resources.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\de\System.Spatial.resources.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\es\System.Spatial.resources.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\fr\System.Spatial.resources.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\it\System.Spatial.resources.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\ja\System.Spatial.resources.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\ko\System.Spatial.resources.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\ru\System.Spatial.resources.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\zh-Hans\System.Spatial.resources.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\bin\zh-Hant\System.Spatial.resources.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\obj\Debug\AM.Application.csprojResolveAssemblyReference.cache
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\obj\Debug\AM.Application.dll
+c:\users\ur81hc\documents\visual studio 2013\Projects\AM.Application\AM.Application\obj\Debug\AM.Application.pdb
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\AM.Application.dll.config
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\AM.Application.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\AM.Application.pdb
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\Antlr3.Runtime.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\EntityFramework.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\Microsoft.Data.Edm.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\Microsoft.Data.OData.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\Newtonsoft.Json.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\System.Net.Http.Formatting.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\System.Spatial.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\System.Web.Helpers.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\System.Web.Http.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\System.Web.Http.OData.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\System.Web.Http.WebHost.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\System.Web.Mvc.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\System.Web.Optimization.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\System.Web.Razor.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\System.Web.WebPages.Deployment.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\System.Web.WebPages.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\System.Web.WebPages.Razor.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\WebGrease.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\EntityFramework.xml
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\Newtonsoft.Json.xml
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\System.Net.Http.Formatting.xml
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\System.Web.Helpers.xml
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\System.Web.Http.xml
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\System.Web.Http.WebHost.xml
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\System.Web.Mvc.xml
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\System.Web.Razor.xml
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\System.Web.WebPages.xml
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\System.Web.WebPages.Deployment.xml
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\System.Web.WebPages.Razor.xml
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\System.Web.Http.OData.xml
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\Microsoft.Data.Edm.xml
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\Microsoft.Data.OData.xml
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\System.Spatial.xml
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\de\System.Spatial.resources.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\es\System.Spatial.resources.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\fr\System.Spatial.resources.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\it\System.Spatial.resources.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\ja\System.Spatial.resources.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\ko\System.Spatial.resources.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\ru\System.Spatial.resources.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\obj\Debug\AM.Application.csprojResolveAssemblyReference.cache
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\obj\Debug\AM.Application.dll
+C:\Users\BeGa\Desktop\AngularMaterialPractice\AM.Application\obj\Debug\AM.Application.pdb
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\AM.Application.dll.config
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\AM.Application.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\AM.Application.pdb
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\Antlr3.Runtime.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\EntityFramework.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\Microsoft.Data.Edm.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\Microsoft.Data.OData.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\Newtonsoft.Json.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\System.Net.Http.Formatting.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\System.Spatial.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\System.Web.Helpers.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\System.Web.Http.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\System.Web.Http.OData.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\System.Web.Http.WebHost.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\System.Web.Mvc.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\System.Web.Optimization.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\System.Web.Razor.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\System.Web.WebPages.Deployment.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\System.Web.WebPages.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\System.Web.WebPages.Razor.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\WebGrease.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\EntityFramework.xml
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\Newtonsoft.Json.xml
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\System.Net.Http.Formatting.xml
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\System.Web.Helpers.xml
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\System.Web.Http.xml
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\System.Web.Http.WebHost.xml
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\System.Web.Mvc.xml
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\System.Web.Razor.xml
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\System.Web.WebPages.xml
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\System.Web.WebPages.Deployment.xml
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\System.Web.WebPages.Razor.xml
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\System.Web.Http.OData.xml
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\Microsoft.Data.Edm.xml
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\Microsoft.Data.OData.xml
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\System.Spatial.xml
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\de\System.Spatial.resources.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\es\System.Spatial.resources.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\fr\System.Spatial.resources.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\it\System.Spatial.resources.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\ja\System.Spatial.resources.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\ko\System.Spatial.resources.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\ru\System.Spatial.resources.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\obj\Debug\AM.Application.csprojResolveAssemblyReference.cache
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\obj\Debug\AM.Application.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\AngularMaterialPractice\AM.Application\obj\Debug\AM.Application.pdb
