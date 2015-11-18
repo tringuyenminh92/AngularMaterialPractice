@@ -151,8 +151,17 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Build\Scripts\Controller\LandingPageController.js" />
-    <Content Include="Build\Scripts\MyApp.js" />
+    <Content Include="Build\Content\angular-material.css" />
+    <Content Include="Build\Content\angular-material.layouts.css" />
+    <Content Include="Build\Content\angular-material.layouts.min.css" />
+    <Content Include="Build\Content\angular-material.min.css" />
+    <Content Include="Build\Content\LayoutStyle.css" />
+    <Content Include="Build\Scripts\Custom\Controller\LandingPageController.js" />
+    <Content Include="Build\Scripts\Custom\MyApp.js" />
+    <Content Include="Build\Scripts\ShareLibs\angular\angular-animate.min.js" />
+    <Content Include="Build\Scripts\ShareLibs\angular\angular-material.min.js" />
+    <Content Include="Build\Scripts\ShareLibs\angular\angular-ui-router.min.js" />
+    <Content Include="Build\Scripts\ShareLibs\angular\angular.min.js" />
     <Content Include="Content\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png" />
     <Content Include="Content\themes\base\images\ui-bg_flat_75_ffffff_40x100.png" />
     <Content Include="Content\themes\base\images\ui-bg_glass_55_fbf9ee_1x400.png" />
@@ -1042,9 +1051,8 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Build\Content\" />
-    <Folder Include="Build\Scripts\Directives\" />
-    <Folder Include="Build\Scripts\ShareLibs\" />
+    <Folder Include="Build\Scripts\Custom\Directives\" />
+    <Folder Include="Build\Scripts\Custom\Services\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <PropertyGroup>
