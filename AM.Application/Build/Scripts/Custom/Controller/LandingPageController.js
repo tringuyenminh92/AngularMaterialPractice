@@ -29,12 +29,12 @@ function LandingPageController($scope) {
     $scope.admin = [
       {
           link: '',
-          title: 'Trash',
+          title: 'Roles',
           icon: 'delete'
       },
       {
           link: '',
-          title: 'Settings',
+          title: 'Users',
           icon: 'settings'
       }
     ];
