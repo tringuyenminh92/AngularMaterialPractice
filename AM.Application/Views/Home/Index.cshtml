@@ -1,6 +1,4 @@
-﻿@{
-    Layout = null;
-}
+﻿
 <!DOCTYPE html>
 <html ng-app="GlobalModule" ng-controller="LandingPageController">
 <head>
@@ -11,46 +9,61 @@
     <link href="~/Build/Content/angular-material.min.css" rel="stylesheet" />
     <link href="~/Build/Content/angular-material.layouts.min.css" rel="stylesheet" />
     <link href="~/Build/Content/LayoutStyle.css" rel="stylesheet" />
-    <link href="~/Build/Content/docs.css" rel="stylesheet" />
 </head>
 <body layout="row">
     <md-sidenav class="md-sidenav-left md-whiteframe-z2 layout-column" md-component-id="left" md-is-locked-open="$mdMedia('gt-md')">
+
         <md-toolbar layout="column" layout-align="end center">
             <md-card class="left_logo">
                 <img src="~/Images/CIR_Logo.png" />
             </md-card>
             <h3>CI Reporting</h3>
         </md-toolbar>
-        <md-list>
-            <md-list-item class="md-2-line" ng-repeat="item in menu" role="link" md-ink-ripple>
-                <md-icon md-svg-icon="{{item.icon}}" aria-label="{{item.title}}"></md-icon>
-                <div class="md-list-item-text">
-                    <span class="md-body-2">{{item.title}}</span>
-                </div>
-            </md-list-item>
-            <md-divider></md-divider>
-            <md-subheader class="md-no-sticky">Management</md-subheader>
-            <md-list-item class="md-2-line" ng-repeat="item in admin" role="link" md-ink-ripple>
-                <md-icon md-svg-icon="{{item.icon}}" aria-label="{{item.title}}"></md-icon>
-                <div class="md-list-item-text">
-                    <span class="md-body-2">{{item.title}}</span>
-                </div>
-            </md-list-item>
-        </md-list>
+
+        <div class='md-padding' layout="column" flex>
+            <md-list>
+                <md-list-item class="md-2-line" ng-repeat="item in menu" role="link" md-ink-ripple>
+                    <md-icon md-svg-icon="{{item.icon}}" aria-label="{{item.title}}"></md-icon>
+                    <div class="md-list-item-text">
+                        <span class="md-body-2">{{item.title}}</span>
+                    </div>
+                </md-list-item>
+                <md-divider></md-divider>
+                <md-subheader class="md-no-sticky">Management</md-subheader>
+                <md-list-item class="md-2-line" ng-repeat="item in admin" role="link" md-ink-ripple>
+                    <md-icon md-svg-icon="{{item.icon}}" aria-label="{{item.title}}"></md-icon>
+                    <div class="md-list-item-text">
+                        <span class="md-body-2">{{item.title}}</span>
+                    </div>
+                </md-list-item>
+            </md-list>
+        </div>
+
+        <md-content md-ink-ripple="#006064">
+            © 2015 - Robert Bosch Engineering and Business Solutions, Vietnam
+        </md-content>
 
     </md-sidenav>
+
     <div layout="column" flex>
         <md-toolbar class="md-whiteframe-glow-z1 site-content-toolbar layout-row layout-align-space-between-center layout-row">
-            <div class="md-toolbar-tools docs-toolbar-tools"><h3>Dashboard</h3></div>
-            <div></div>
-            <div>
-                <md-button><img src="~/Images/bosch_logo.png" /> </md-button>
+            <div class="navigation-sidenav-mode-toggle">
+                <md-button class="md-fab md-primary">
+                @*    <md-icon md-svg-src=""></md-icon>*@
+                </md-button>
+            </div>
+            <div class="md-toolbar-tools docs-toolbar-tools">
+                <h3>Dashboard</h3>
+            </div>
+            <div md-ink-ripple class="right_logo">
+                <img src="~/Images/bosch_logo.png" />
             </div>
         </md-toolbar>
         <md-content flex>
             @*<ui-view layout="column" layout-fill layout-padding></ui-view>*@
         </md-content>
     </div>
+
     @Scripts.Render("~/bundles/jquery")
     @Scripts.Render("~/bundles/modernizr")
     <script src="~/Build/Scripts/ShareLibs/angular/angular.min.js"></script>

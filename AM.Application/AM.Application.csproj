@@ -155,7 +155,6 @@
     <Content Include="Build\Content\angular-material.layouts.css" />
     <Content Include="Build\Content\angular-material.layouts.min.css" />
     <Content Include="Build\Content\angular-material.min.css" />
-    <Content Include="Build\Content\docs.css" />
     <Content Include="Build\Content\LayoutStyle.css" />
     <Content Include="Build\Scripts\Custom\Controller\LandingPageController.js" />
     <Content Include="Build\Scripts\Custom\MyApp.js" />

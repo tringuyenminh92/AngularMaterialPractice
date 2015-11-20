@@ -5,12 +5,10 @@ function LandingPageController($scope) {
     'use strict';
 
     $scope.landingPageModel = {
-        title: 'Angular Material Layout'
+        title: 'CI/FS Reporting Dashboard'
     };
 
-
-    $scope.menu = [
-    {
+    $scope.menu = [{
         link: '',
         title: 'Dashboard',
         icon: 'dashboard'
@@ -24,8 +22,8 @@ function LandingPageController($scope) {
         link: '',
         title: 'Messages',
         icon: 'message'
-    }
-    ];
+    }];
+
     $scope.admin = [
       {
           link: '',
