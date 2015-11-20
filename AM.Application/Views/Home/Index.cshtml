@@ -14,9 +14,9 @@
     <link href="~/Build/Content/docs.css" rel="stylesheet" />
 </head>
 <body layout="row">
-    <md-sidenav layout="column" class="md-sidenav-left md-whiteframe-z2" md-component-id="left" md-is-locked-open="$mdMedia('gt-md')">
+    <md-sidenav class="md-sidenav-left md-whiteframe-z2 layout-column" md-component-id="left" md-is-locked-open="$mdMedia('gt-md')">
         <md-toolbar layout="column" layout-align="end center">
-            <md-card class="logo">
+            <md-card class="left_logo">
                 <img src="~/Images/CIR_Logo.png" />
             </md-card>
             <h3>CI Reporting</h3>
@@ -37,13 +37,14 @@
                 </div>
             </md-list-item>
         </md-list>
+
     </md-sidenav>
-    <div layout="column" flex layout-fill>
-        <md-toolbar class="md-whiteframe-glow-z1 site-content-toolbar">
-            <div class="md-toolbar-tools docs-toolbar-tools">
-                <h3>
-                    Dashboard
-                </h3>
+    <div layout="column" flex>
+        <md-toolbar class="md-whiteframe-glow-z1 site-content-toolbar layout-row layout-align-space-between-center layout-row">
+            <div class="md-toolbar-tools docs-toolbar-tools"><h3>Dashboard</h3></div>
+            <div></div>
+            <div>
+                <md-button><img src="~/Images/bosch_logo.png" /> </md-button>
             </div>
         </md-toolbar>
         <md-content flex>

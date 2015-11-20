@@ -2,11 +2,19 @@
     background-color: #eee;
 }
 
-.logo img {
-    transform: scale(1.2);
-    transform-origin: 50% 0 0;
+.left_logo {
+    background-color: transparent;
 }
 
+    .left_logo img {
+        transform: scale(1.2);
+        transform-origin: 50% 0 0;
+        border-radius: 17%;
+    }
+
+.right_logo img {
+    padding-right: 0 !important;
+}
 
 .md-whiteframe-glow-z1 {
     box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 0px 2px 2px rgba(0, 0, 0, 0.098), 0px 0px 5px 1px rgba(0, 0, 0, 0.084);
@@ -46,9 +54,9 @@ md-content.md-default-theme {
 
 md-sidenav > md-toolbar {
     padding: 15px;
-    height: 350px;
+    height: 275px;
     width: auto;
-    max-height: 350px;
+    max-height: 275px;
 }
 
 md-sidenav md-list-item.md-2-line .md-list-item-text {
