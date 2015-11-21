@@ -8,6 +8,7 @@
     <meta name="viewport" content="width=device-width" />
     <link href="~/Build/Content/angular-material.min.css" rel="stylesheet" />
     <link href="~/Build/Content/angular-material.layouts.min.css" rel="stylesheet" />
+    <link href="~/Build/Content/font-awesome.min.css" rel="stylesheet" />
     <link href="~/Build/Content/LayoutStyle.css" rel="stylesheet" />
 </head>
 <body layout="row">
@@ -15,14 +16,15 @@
 
         <md-toolbar layout="column" layout-align="end center">
             <md-card class="left_logo">
-                <img src="~/Images/CIR_Logo.png" />
+                <img ng-src="{{landingPageModel.leftLogoBosch}}" />
             </md-card>
-            <h3>CI Reporting</h3>
+            <h2 class="title-position" ng-bind="landingPageModel.projectTitle"></h2>
+            <a class="sidebar-brand" ng-bind="landingPageModel.helloUser"></a>
         </md-toolbar>
 
         <div class='md-padding' layout="column" flex>
             <md-list>
-                <md-list-item class="md-2-line" ng-repeat="item in menu" role="link" md-ink-ripple>
+                <md-list-item class="md-2-line item-on-hover" ng-repeat="item in menu" role="link" md-ink-ripple>
                     <md-icon md-svg-icon="{{item.icon}}" aria-label="{{item.title}}"></md-icon>
                     <div class="md-list-item-text">
                         <span class="md-body-2">{{item.title}}</span>
@@ -39,24 +41,25 @@
             </md-list>
         </div>
 
-        <md-content md-ink-ripple="#006064">
-            © 2015 - Robert Bosch Engineering and Business Solutions, Vietnam
-        </md-content>
+        <md-content md-ink-ripple="#006064" ng-bind="landingPageModel.footerCopyRight"></md-content>
 
     </md-sidenav>
 
     <div layout="column" flex>
-        <md-toolbar class="md-whiteframe-glow-z1 site-content-toolbar layout-row layout-align-space-between-center layout-row">
+        <md-toolbar class="md-whiteframe-glow-z1 site-content-toolbar layout-row">
+
             <div class="navigation-sidenav-mode-toggle">
                 <md-button class="md-fab md-primary">
-                @*    <md-icon md-svg-src=""></md-icon>*@
+                    @*    <md-icon md-svg-src=""></md-icon>*@
                 </md-button>
             </div>
+
             <div class="md-toolbar-tools docs-toolbar-tools">
                 <h3>Dashboard</h3>
             </div>
-            <div md-ink-ripple class="right_logo">
-                <img src="~/Images/bosch_logo.png" />
+
+            <div md-ink-ripple class="right_logo layout-row layout-fill layout-align-end-center">
+                <img ng-src="{{landingPageModel.rightLogoBosch}}" />
             </div>
         </md-toolbar>
         <md-content flex>

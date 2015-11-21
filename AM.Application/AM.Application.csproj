@@ -155,6 +155,8 @@
     <Content Include="Build\Content\angular-material.layouts.css" />
     <Content Include="Build\Content\angular-material.layouts.min.css" />
     <Content Include="Build\Content\angular-material.min.css" />
+    <Content Include="Build\Content\font-awesome.min.css" />
+    <Content Include="Build\fonts\fontawesome-webfont.svg" />
     <Content Include="Build\Content\LayoutStyle.css" />
     <Content Include="Build\Scripts\Custom\Controller\LandingPageController.js" />
     <Content Include="Build\Scripts\Custom\MyApp.js" />
@@ -163,6 +165,8 @@
     <Content Include="Build\Scripts\ShareLibs\angular\angular-material.min.js" />
     <Content Include="Build\Scripts\ShareLibs\angular\angular-ui-router.min.js" />
     <Content Include="Build\Scripts\ShareLibs\angular\angular.min.js" />
+    <Content Include="Content\font-awesome.css" />
+    <Content Include="Content\font-awesome.min.css" />
     <Content Include="Content\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png" />
     <Content Include="Content\themes\base\images\ui-bg_flat_75_ffffff_40x100.png" />
     <Content Include="Content\themes\base\images\ui-bg_glass_55_fbf9ee_1x400.png" />
@@ -218,6 +222,7 @@
     <Content Include="Content\themes\base\minified\jquery.ui.tabs.min.css" />
     <Content Include="Content\themes\base\minified\jquery.ui.theme.min.css" />
     <Content Include="favicon.ico" />
+    <Content Include="fonts\fontawesome-webfont.svg" />
     <Content Include="Global.asax" />
     <Content Include="Images\bosch_logo.png" />
     <Content Include="Images\CIR_Logo.png" />
@@ -260,6 +265,16 @@
     <Content Include="Scripts\angular-aria.min.js.map" />
     <Content Include="Scripts\angular-animate.min.js.map" />
     <Content Include="Scripts\angular.min.js.map" />
+    <Content Include="fonts\fontawesome-webfont.woff2" />
+    <Content Include="fonts\fontawesome-webfont.woff" />
+    <Content Include="fonts\fontawesome-webfont.ttf" />
+    <Content Include="fonts\fontawesome-webfont.eot" />
+    <Content Include="fonts\FontAwesome.otf" />
+    <Content Include="Build\fonts\fontawesome-webfont.eot" />
+    <Content Include="Build\fonts\fontawesome-webfont.ttf" />
+    <Content Include="Build\fonts\fontawesome-webfont.woff" />
+    <Content Include="Build\fonts\fontawesome-webfont.woff2" />
+    <Content Include="Build\fonts\FontAwesome.otf" />
     <None Include="Scripts\jquery-1.8.2.intellisense.js" />
     <Content Include="Scripts\i18n\angular-locale_aa-dj.js" />
     <Content Include="Scripts\i18n\angular-locale_aa-er.js" />

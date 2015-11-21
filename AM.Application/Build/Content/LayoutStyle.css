@@ -1,4 +1,30 @@
-﻿md-content {
+﻿/*md-sidenav md-toolbar {
+    padding-bottom: 0 !important;
+}*/
+.title-position {
+    margin-top: 12px !important;
+    margin-bottom: 36px !important;
+    
+}
+.sidebar-brand {
+    bottom: 0;
+    clear: both;
+    display: block;
+    font-weight: 500;
+    height: 48px;
+    left: 0;
+    line-height: 48px;
+    overflow: hidden;
+    padding: 0 56px 0 16px;
+    position: absolute;
+    right: 0;
+    text-decoration: none;
+    text-overflow: ellipsis;
+    transition: all 0.2s ease-in-out 0s;
+    white-space: nowrap;
+}
+
+md-content {
     background-color: #eee;
 }
 
@@ -8,7 +34,6 @@
 
     .left_logo img {
         transform: scale(1.2);
-        transform-origin: 50% 0 0;
         border-radius: 17%;
     }
 
@@ -54,9 +79,9 @@ md-content.md-default-theme {
 
 md-sidenav > md-toolbar {
     padding: 15px;
-    height: 275px;
+    height: 300px;
     width: auto;
-    max-height: 275px;
+    /*max-height: 275px;*/
 }
 
 md-sidenav md-list-item.md-2-line .md-list-item-text {
