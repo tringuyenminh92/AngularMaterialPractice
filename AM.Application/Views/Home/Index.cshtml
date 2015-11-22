@@ -12,7 +12,7 @@
     <link href="~/Build/Content/LayoutStyle.css" rel="stylesheet" />
 </head>
 <body layout="row">
-    <md-sidenav class="md-sidenav-left md-whiteframe-z2 layout-column" md-component-id="left" md-is-locked-open="$mdMedia('gt-md')">
+    <md-sidenav class="md-sidenav-left md-whiteframe-z2 layout-column" md-component-id="left" md-is-locked-open="landingPageModel.leftMenu.isLocked">
 
         <md-toolbar layout="column" layout-align="end center">
             <md-card class="left_logo">
@@ -46,13 +46,18 @@
     </md-sidenav>
 
     <div layout="column" flex>
-        <md-toolbar class="md-whiteframe-glow-z1 site-content-toolbar layout-row">
+        <md-toolbar class="md-whiteframe-glow-z1 site-content-toolbar layout-row" style="z-index:99">
 
-            <div class="navigation-sidenav-mode-toggle">
-                <md-button class="md-fab md-primary">
-                    @*    <md-icon md-svg-src=""></md-icon>*@
+            <span class="showcode" ng-click="leftSidebarToggle()">
+                <md-button class="md-fab md-warn md-icon-button">
+                    <i class="fa {{landingPageModel.leftMenu.isLocked ?'fa-hand-o-left' : 'fa-hand-o-right'}} fa-2x"></i>
                 </md-button>
-            </div>
+            </span>
+            @*<div class="navigation-sidenav-mode-toggle">
+                    <md-button class="md-fab md-primary">
+                            <md-icon md-svg-src=""></md-icon>
+                    </md-button>
+                </div>*@
 
             <div class="md-toolbar-tools docs-toolbar-tools">
                 <h3>Dashboard</h3>
